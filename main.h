@@ -9,5 +9,5 @@
 
 void j_pt(const char *string);
 void j_display(void);
-
+void j_read(char *command, size_t size)
 #endif
